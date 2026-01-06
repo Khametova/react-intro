@@ -1,0 +1,16 @@
+.UserWrap {
+}
+
+.userCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.userImg {
+  height: 300px;
+  width: 200px;
+  object-fit: cover;
+}
