@@ -1,13 +1,17 @@
-#root {
+* {
+  box-sizing: border-box;
+}
+
+/* #root {
   display: flex;
   align-items: center;
   justify-content: center;
-}
+} */
 
 .userWrap {
   min-width: 200px;
   max-width: 350px;
-  width: 200px;
+  width: 100%;
   background-color: rgb(237, 86, 86);
   padding: 10px;
   text-align: center;
